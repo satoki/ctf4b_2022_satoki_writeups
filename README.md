@@ -6,10 +6,10 @@ SECCON Beginners CTF 2022 作問者の一人 [Satoki](https://twitter.com/satoki
 2022で私が作った問題は以下になります。  
 
 - Misc
-  - [hitchhike4b](misc/hitchhike4b) [X Solves]  
-  - [phisher](misc/phisher) [X Solves]  
+  - [hitchhike4b](misc/hitchhike4b) [125 Solves]  
+  - [phisher](misc/phisher) [238 Solves]  
 - Web
-  - [textex](web/textex) [X Solves]  
+  - [textex](web/textex) [123 Solves]  
 
 今年の問題は難易度が大幅に下がったと感じています。  
 問題を生み出すのに苦労したのと、昨年のSolvesを考慮した結果です。  
